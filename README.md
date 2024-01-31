@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan-osshub
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python,c++
+- 🌱 I’m currently learning python,c++,c
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me insta-r.0h4n
 
